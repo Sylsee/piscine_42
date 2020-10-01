@@ -1,0 +1,5 @@
+Credentials cache: API:7D90672B-4722-494A-BDC2-CE64A82609E1
+        Principal: spoliart@42.FR
+
+  Issued                Expires               Principal
+Sep  7 21:18:47 2020  Sep 14 21:18:47 2020  krbtgt/42.FR@42.FR
